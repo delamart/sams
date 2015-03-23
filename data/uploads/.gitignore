@@ -2,6 +2,3 @@
 *
 # Except these files
 !.gitignore
-!database.sql
-!empty.db3
-!uploads/
