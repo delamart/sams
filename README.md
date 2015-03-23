@@ -1,4 +1,5 @@
-challenge
+SAMS
 =========
 
-Dog walking challenge 2012 - challenge.baikasblog.com
+SAMS is A Management System.
+
