@@ -1,0 +1,10 @@
+<?php
+
+class PersonelcheckModel extends ModelDbLib {
+    
+    public function __construct(CollectionDbLib $collection, array $data = array())
+    {
+        parent::__construct($collection, $data);
+    }
+
+}
